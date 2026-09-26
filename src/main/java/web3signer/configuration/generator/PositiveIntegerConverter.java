@@ -1,5 +1,5 @@
 /*
- * Copyright 2021 Usman Saleem.
+ * Copyright 2021 Hyperoz Labs.
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with
  * the License. You may obtain a copy of the License at
